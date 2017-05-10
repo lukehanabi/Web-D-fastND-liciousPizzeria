@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web-D-fastND-liciousPizzeria.iml" filepath="$PROJECT_DIR$/.idea/modules/Web-D-fastND-liciousPizzeria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web-D-fastND-liciousPizzeria_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Web-D-fastND-liciousPizzeria_main.iml" group="Web-D-fastND-liciousPizzeria" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web-D-fastND-liciousPizzeria_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Web-D-fastND-liciousPizzeria_test.iml" group="Web-D-fastND-liciousPizzeria" />
+    </modules>
+  </component>
+</project>
